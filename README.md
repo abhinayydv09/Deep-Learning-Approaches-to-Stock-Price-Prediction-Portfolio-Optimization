@@ -1,1 +1,1 @@
-# Deep-Learning-Approaches-to-Stock-Price-Prediction-Portfolio-Optimization
+# Stock_price_prediction_and-porfolio-opimization
