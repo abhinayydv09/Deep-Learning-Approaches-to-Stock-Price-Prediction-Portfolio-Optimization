@@ -1,3 +1,5 @@
+Stock Forcasting & Portfolio Optimization
+
 # 📈 SmartInvest - AI-Driven Stock Forecasting & Portfolio Planner
 
 SmartInvest is a **deep learning–based stock investment planning system** that combines **short-term stock price forecasting** with **risk-aware portfolio optimization**.  
