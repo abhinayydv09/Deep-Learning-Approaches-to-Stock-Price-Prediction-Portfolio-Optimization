@@ -67,15 +67,6 @@ Portfolio-level evaluation compares **predicted vs actual portfolio values** rat
 
 ---
 
-## Important Disclaimer
-
-This project was developed **purely for academic learning and experimentation**.  
-We implemented **MVP as foundational portfolio optimization techniques**, while acknowledging that **real-world portfolio construction involves more complex strategies, constraints, and market considerations**.
-
-The system is **not intended as financial or investment advice**.
-
----
-
 ## Intended Users
 
 SmartInvest is designed to be explored by:
@@ -94,6 +85,14 @@ SmartInvest is designed to be explored by:
 - Streamlit
 - Yahoo Finance (data source)
 
+---
+
+## Important Disclaimer
+
+This project was developed **purely for academic learning and experimentation**.  
+We implemented **MVP as foundational portfolio optimization techniques**, while acknowledging that **real-world portfolio construction involves more complex strategies, constraints, and market considerations**.
+
+The system is **not intended as financial or investment advice**.
 ---
 
 
